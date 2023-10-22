@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false" showExcludedInSync="true">
+    <serverData>
+      <paths name="root@10.193.124.170:4665">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/Lanter/TIM-NET_SER" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

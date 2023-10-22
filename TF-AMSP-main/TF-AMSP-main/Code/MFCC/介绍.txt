@@ -1,0 +1,4 @@
+ReadText.npy ： 包含的是mfcc和标签
+ReadText2.npy ： 包含的是wav2vec2特征和标签
+ReadText3.npy ： 包含的是hubert特征和标签
+ReadText3.npy ： 包含的是mfcc+hubert特征的concatenate 和标签
